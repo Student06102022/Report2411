@@ -1,4 +1,3 @@
-# полное решение https://github.com/Monges/Zadacha-Goda?ysclid=m3svvd48r0668584473
 
 from datetime import datetime
 
